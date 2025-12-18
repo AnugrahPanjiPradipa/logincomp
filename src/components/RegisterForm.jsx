@@ -1,6 +1,6 @@
 const RegisterForm = ({ setActive }) => {
   return (
-    <div className="flex flex-col justify-center items-center gap-4 px-8 py-4 w-1/2 h-full">
+    <div className="flex flex-col justify-center items-center gap-4 px-8 py-4 w-full h-full">
       <p className="text-sm font-semibold text-white">
         Already have an account?
         <button
