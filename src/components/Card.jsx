@@ -28,7 +28,7 @@ const Card = ({ Active }) => {
               <img
                 src={isLogin ? '/login.svg' : '/signup.svg'}
                 alt={Active}
-                className="w-full h-auto py-10"
+                className="w-full h-full py-10"
               />
             </div>
           </motion.div>
